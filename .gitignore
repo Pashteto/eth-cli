@@ -1,2 +1,7 @@
 walletStored
 package*
+.vscode
+**/.vscode
+._.vscode
+.env
+tmp*
