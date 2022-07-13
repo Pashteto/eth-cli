@@ -38,5 +38,4 @@ func main() {
 	fmt.Println("the fBalance: ", fBalance)
 	val := new(big.Float).Quo(fBalance, big.NewFloat(math.Pow10(18)))
 	fmt.Println("the val: ", val)
-
 }
